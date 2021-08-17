@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jopdias" alt="jopdias" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript Type**
+- 🌱 I’m currently learning **Java, JavaScript and typeScript | Angular and Spring**
 
 - 📫 How to reach me **dias.araujo.joao@gmail.com**
 
