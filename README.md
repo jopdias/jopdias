@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Paulo Dias Araújo aka jopdias!</h1>
-<h3 align="center">A Brazilian Engineer and Dev!</h3>
+<h1 align="left">Hi 👋, I'm João Paulo Dias Araújo aka jopdias!</h1>
+<h3 align="left">A Brazilian Engineer and Dev!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jopdias&label=Profile%20views&color=0e75b6&style=flat" alt="jopdias" /> </p>
 
